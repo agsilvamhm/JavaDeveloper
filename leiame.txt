@@ -1,0 +1,11 @@
+* Todo o arquivo java deve começar com uma letra maiúscula e ter a extensão .java, e a sua classe principal deve ter o mesmo nome do arquivo.
+
+* Por conversão, a primeira letra da classe deve ser maiúscula e se houve concatenação de nomes, o segundo nome deve começar com a letra maiúscula e por aí sucessivamente.
+
+* Por convernção a variável deve iniciar com letra minúscula, e se for um nome composto a primeira letra do segundo nome deve ser maiúscula, padrão camel case.
+
+* Também por convenção, as variáveis contantes, devem ser escritas todas em maiúsculas, desta forma o desenvolvedor que se deparar com esta variável em qualquer ponto do código vai entender que se trata de uma contante. Também quando se tratar de nomes compostos a união destes nomes se dará por um underline ( _ )
+Exemplo da definição de uma contante:  final String NOME_USUARIO = "Adalberto Gonçalves da Silva"
+
+* Os métodos devem ser nomeados como uma varíavel, exemplo no caso de nome composto, "somarInventario". Deve ser sempre declarado como verdo, executando uma ação.
+

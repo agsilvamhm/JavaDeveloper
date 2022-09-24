@@ -1,0 +1,6 @@
+public Class MinhaClasse{
+
+    public static void main (String []args) {
+        System.out.prinln("Olá turma, sejam bem vindos!");
+    }
+}
