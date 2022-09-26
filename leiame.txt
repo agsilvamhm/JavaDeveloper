@@ -9,3 +9,18 @@ Exemplo da definição de uma contante:  final String NOME_USUARIO = "Adalberto 
 
 * Os métodos devem ser nomeados como uma varíavel, exemplo no caso de nome composto, "somarInventario". Deve ser sempre declarado como verdo, executando uma ação.
 
++-----------------------------------------------------------------------------------------------------------+
+Tipos de variáveis:
+
+Para atribuir as variáveis será utilizada a estrutura.
+<Tipo>   <Nome da Variável>  <Atribuição de valor , é opcional>
+
+Para o tipo da variável Float, após indicar o valor deve ser acrescentado o f no final deste número.
+Da mesma forma para o tipo Long, no final deve ser adicionado a letra L, para que o java entenda que é do tipo Long.
+Ou seja para ambos Float e Long, além de indicar o tipo da variável, no final deve acrescentar o L ou F.
+
++-------------------------------------------------------------------------------------------------------------+
+Operadores.
+
+Operador de atribuição = 
+
