@@ -24,3 +24,6 @@ Operadores.
 
 Operador de atribuição = 
 
+Para números devemos utilizar os operadores, mas quando formos comparar objetos, devemos utlizar para comparar o método Equals.
+
+Não existe em Java os métodos globais, todo o método deve ser feito dentro do escopo de uma classe.
