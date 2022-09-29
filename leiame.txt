@@ -27,3 +27,16 @@ Operador de atribuição =
 Para números devemos utilizar os operadores, mas quando formos comparar objetos, devemos utlizar para comparar o método Equals.
 
 Não existe em Java os métodos globais, todo o método deve ser feito dentro do escopo de uma classe.
+
++------------------------------------------------------------------------------------------+
+Java Doc
+
+Uma recomendação é ler a documentação da linguagem e dos framworks
+
+Repositório para o material de apoio;
+
+https://github.com/digitalinnovationone/trilha-java-basico
+
++-------------------------------------------------
+Comando para criar a documentação java
+javadoc -encoding UTF-8 -d ./docs src/*.java
