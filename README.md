@@ -6,3 +6,4 @@
 ## Módulo III- Introdução, aprendendo a sitaxe Java
 ## Módulo IV - Desafio de código
 ## Módulo  V - Desafio de projeto 
+## Módulo VI - Introdução e Estruturas Condicionais com Java 
