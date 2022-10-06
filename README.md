@@ -7,3 +7,4 @@
 ## Módulo IV - Desafio de código
 ## Módulo  V - Desafio de projeto 
 ## Módulo VI - Introdução e Estruturas Condicionais com Java 
+## Módulo VII- Estrutura de repetição em Java
